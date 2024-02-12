@@ -12,7 +12,7 @@ import static org.junit.Assert.*;
  * @since 04/16/2023
  * @version 1.0
  */
-public class HW5Tester {
+public class Tester {
 
     // Field that represents a test museum of the ArtMuseum type
     private ArtMuseum museum1;
