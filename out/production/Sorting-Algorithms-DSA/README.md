@@ -24,7 +24,7 @@ This Java application is designed to manage and manipulate the artwork database 
     ```bash
     java ArtMuseum
     ```
-5. There is also a testing file, created with JUnit. Feel free to run it to test through the program:
+5. There is also a comprehensive testing file, created with JUnit. Feel free to run it to test through the program:
    ```bash
    java Tester
    ```

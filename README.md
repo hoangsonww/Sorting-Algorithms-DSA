@@ -46,3 +46,5 @@ Use the `findArts` method to retrieve all artworks by a specific artist from the
 Contributions to the project are welcome. Please fork the repository, make your changes, and submit a pull request with a detailed description of your additions or changes.
 
 ---
+
+Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2023.
