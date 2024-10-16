@@ -5,17 +5,18 @@ This Java application is designed to manage and manipulate the artwork database 
 
 ## Features
 - Add new artwork entries to the museum's database.
-- Sort the artworks based on specified attributes in ascending or descending order.
+- Sort the artworks based on specified attributes in ascending or descending order using Merge Sort, a highly efficient sorting algorithm.
 - Generate random lists of artwork for display or analysis.
 - Find artworks by a specific artist.
 - Implement a specialized random sort that organizes artworks into categories based on multiple attributes.
 
 ## Prerequisites
 - Java Development Kit (JDK) 11 or higher.
+- A Java IDE (e.g. IntelliJ or Eclipse) is highly recommended.
 
 ## Setup and Installation
 1. Ensure Java is installed on your system. You can download JDK from the [Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
-2. Clone this repository to your local machine using `git clone <repository-url>`.
+2. Clone this repository to your local machine using `git clone https://github.com/hoangsonww/Sorting-Algorithms-DSA.git`.
 3. Compile the Java files from your terminal or command prompt:
     ```bash
     javac ArtMuseum.java Art.java
@@ -28,6 +29,8 @@ This Java application is designed to manage and manipulate the artwork database 
    ```bash
    java Tester
    ```
+
+Or, you can simplify these steps with a Java-supported IDE such as IntelliJ IDEA!
 
 ## Usage
 ### Adding Artworks
